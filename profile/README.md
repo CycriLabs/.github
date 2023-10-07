@@ -1,6 +1,6 @@
 ## Get Involved
 
-Cycrilabs is building an enterprise administration & management platform.
+CycriLabs is building an enterprise administration & management platform.
 
 <!--
 
